@@ -11,9 +11,9 @@ import MyBookings from './pages/MyBookings'
 import AgencyReg from './components/AgencyReg'
 import { useAppContext } from './context/AppContext'
 import Sidebar from './components/owner/Sidebar'
-import Dashboard from './pages/owner/Dashboard'
-import AddProperty from './pages/owner/AddProperty'
-import ListProperty from './pages/owner/ListProperty'
+import Dashboard from './pages/Owner/Dashboard'
+import AddProperty from './pages/Owner/AddProperty'
+import ListProperty from './pages/Owner/ListProperty'
 import { Toaster } from "react-hot-toast"
 import Processing from './pages/Processing'
 
